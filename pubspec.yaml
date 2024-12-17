@@ -1,6 +1,6 @@
-name: flutter_plugin_elui
-description: A new Flutter plugin.
-version: 0.0.1
+name: flutter_elui_plugin
+description: flutter 的ui库
+version: 0.2.0
 author:
 homepage:
 
